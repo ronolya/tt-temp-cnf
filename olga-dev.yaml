@@ -1,2 +1,4 @@
-aaa__bbb__ccc: "https://opendata.nederlandwereldwijd.nl/v1/sources/nederlandwereldwijd/infotypes/traveladvice"
-mmmm: "00:05:00"
+Connections:ConnectionStringMusic: Host=5.5.5.8;Port=9700;Database=tentime_music_db_stage;Username=tentimeuser;Password=M@lien#19$
+Connections:ConnectionString: Host=5.5.5.7;Port=9700;Database=tentime_db_stage;Username=tentimeuser;Password=M@lien#19$
+Connections:ElasticSearchUrl: http://5.5.5.6:9701
+serviceAuthentication:AuthServerUrl: http://5.5.5.5:9401
